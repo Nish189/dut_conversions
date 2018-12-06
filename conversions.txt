@@ -2,6 +2,7 @@
       Multiply rand by 100
 
 -Km to m
+      Multiply km by 1000
 
 -Litres to mililitres
 
