@@ -1,4 +1,7 @@
 -Rands to cents
+      Multiply rand by 100
+
 -Km to m
+
 -Litres to mililitres
 
